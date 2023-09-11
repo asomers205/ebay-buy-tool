@@ -3,14 +3,6 @@
 
 A program that uses the ebaySDK module (https://github.com/timotheus/ebaysdk-python) to obtain the cheapest US domestic "Buy it now" listings for items with a given UPC. This works particularly well for monitoring the daily fixed price listings of newly released media items, such as video games, which have expensive prices upon release but drop in price shortly after release. The program is coded to email the listing results to the user once per day (by default).
 
-~~~~~~~~~~~~~~~
-Example:
-~~~~~~~~~~~~~~~
-
-Input: 883929391462 
-
-Output:https://imgur.com/a/KuarK (taken from my email inbox)
-
 ~~~~~~~~~~~~~
 Dependencies:
 ~~~~~~~~~~~~~
